@@ -1,1 +1,0 @@
-Fidell events administration
